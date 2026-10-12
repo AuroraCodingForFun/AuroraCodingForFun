@@ -14,7 +14,7 @@ I'm studying at UNIVE Cà Foscari. I always had a passion for code and new techn
 
 🔭 &nbsp;I'm currently working on **My laurea**  
 🌱 &nbsp;I'm currently learning **C, C++, Python, R and many more...**  
-😄 &nbsp;Pronouns: **She/her (Lei)**
+😄 &nbsp;Pronouns: **She/her (Lei)**  
 🖥️ &nbsp;Checkout my Blog! **https://auroracodingforfun.github.io/BlogSite/** 
 
 
