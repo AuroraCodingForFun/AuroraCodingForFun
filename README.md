@@ -46,6 +46,10 @@ I'm studying at UNIVE Cà Foscari. I always had a passion for code and new techn
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
+   <div class="center">
+   <a class="button" href="https://github.com/AuroraCodingForFun/SocialNetworkAnalysisProject"> Click here to check it out! </a>
+   </div>
+
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/AuroraCodingForFun">AuroraCodingForFun</a></i></p>
 
