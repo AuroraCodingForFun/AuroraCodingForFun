@@ -14,6 +14,7 @@ I'm studying at UNIVE Cà Foscari. I always had a passion for code and new techn
 
 🔭 &nbsp;I'm currently working on **My laurea**  
 🌱 &nbsp;I'm currently learning **C, C++, Python, R and many more...**  
+🖥️ &nbsp;Checkout my Blog! **https://auroracodingforfun.github.io/BlogSite/** 
 😄 &nbsp;Pronouns: **She/her (Lei)**
 
 ### 🛠️ Tech Stack
@@ -45,8 +46,6 @@ I'm studying at UNIVE Cà Foscari. I always had a passion for code and new techn
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
-
-   <a href="https://auroracodingforfun.github.io/BlogSite/" style="text-align: center"> Click here to check it out! </a>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/AuroraCodingForFun">AuroraCodingForFun</a></i></p>
