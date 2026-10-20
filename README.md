@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AuroraCodingForFun">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Aurora" alt="Hello! I&#39;m Aurora" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hi!%20I'm%20Aurora" alt="Hello! I&#39;m Aurora" />
   </a>
 </p>
 
