@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AuroraCodingForFun">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hi!%20I'm%20Aurora" alt="Hello! I&#39;m Aurora" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00ff2f&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Aurora" alt="Hello! I&#39;m Aurora" />
   </a>
 </p>
 
@@ -14,9 +14,7 @@ I'm studying at UNIVE Cà Foscari. I always had a passion for code and new techn
 
 🔭 &nbsp;I'm currently working on **My laurea**  
 🌱 &nbsp;I'm currently learning **C, C++, Python, R and many more...**  
-😄 &nbsp;Pronouns: **She/her (Lei)**  
-🖥️ &nbsp;Checkout my Blog! **https://auroracodingforfun.github.io/BlogSite/** 
-
+😄 &nbsp;Pronouns: **She/her (Lei)**
 
 ### 🛠️ Tech Stack
 
@@ -42,6 +40,19 @@ I'm studying at UNIVE Cà Foscari. I always had a passion for code and new techn
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=AuroraCodingForFun&show_icons=true&theme=tokyonight&title_color=00ff2f&icon_color=00ff2f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=AuroraCodingForFun&layout=compact&theme=tokyonight&title_color=00ff2f&icon_color=00ff2f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=AuroraCodingForFun&bg_color=00000000&color=00ff2f&line=00ff2f&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
 ### 💭 Dev Quote
 
 <p align="center">
@@ -50,4 +61,3 @@ I'm studying at UNIVE Cà Foscari. I always had a passion for code and new techn
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/AuroraCodingForFun">AuroraCodingForFun</a></i></p>
-
