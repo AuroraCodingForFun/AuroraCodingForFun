@@ -12,6 +12,7 @@
 
 I'm studying at UNIVE Cà Foscari. I always had a passion for code and new technologies, I hope to make the world a better place and more accessible to everyone. My dream is to live a life I'll never regret
 
+💻 &nbsp;Checkout my blog: https://auroracodingforfun.github.io/BlogSite/  
 🔭 &nbsp;I'm currently working on **My laurea**  
 🌱 &nbsp;I'm currently learning **C, C++, Python, R and many more...**  
 😄 &nbsp;Pronouns: **She/her (Lei)**
