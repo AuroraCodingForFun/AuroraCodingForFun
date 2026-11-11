@@ -45,13 +45,9 @@ I'm studying at UNIVE Cà Foscari. I always had a passion for code and new techn
 </p>
 
 ### 📊 GitHub Stats
-<p>
-<p align="left">
-  <img src="/github-metrics.svg" alt="Metrics">
-</p>
-<p align="right">
-  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year calendar">
-</p>
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="48%">
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year calendar" width="48%">
 </p>
 
 <p align="center">
