@@ -11,11 +11,12 @@ jobs:
     permissions:
       contents: write
     steps:
-            - name: Metrics
+      - name: Metrics
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+
       - name: Icons
         uses: lowlighter/metrics@latest
         with:
