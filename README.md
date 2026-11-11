@@ -18,6 +18,9 @@ I'm studying at UNIVE Cà Foscari. I always had a passion for code and new techn
 😄 &nbsp;Pronouns: **She/her (Lei)**
 
 ### 🛠️ Tech Stack
+<picture>
+  <img src="/metrics.plugin.topics.icons.svg" alt="Topics">
+</picture>
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -42,9 +45,14 @@ I'm studying at UNIVE Cà Foscari. I always had a passion for code and new techn
 </p>
 
 ### 📊 GitHub Stats
-<picture>
+<p>
+<p align="left">
   <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+</p>
+<p align="right">
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year calendar">
+</p>
+</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=AuroraCodingForFun&show_icons=true&theme=tokyonight&title_color=00ff2f&icon_color=00ff2f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
