@@ -42,6 +42,9 @@ I'm studying at UNIVE Cà Foscari. I always had a passion for code and new techn
 </p>
 
 ### 📊 GitHub Stats
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=AuroraCodingForFun&show_icons=true&theme=tokyonight&title_color=00ff2f&icon_color=00ff2f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
